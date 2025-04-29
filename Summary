@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>VWL Summary</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      background-color: #f5f5f5;
+    }
+    h1 {
+      text-align: center;
+      background-color: black;
+      color: white;
+      padding: 15px;
+      border-radius: 10px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+      table-layout: fixed;
+    }
+    th, td {
+      border: 1px solid #ccc;
+      padding: 12px;
+      vertical-align: top;
+      width: 25%;
+    }
+    th {
+      font-size: 18px;
+      color: white;
+    }
+    .white { background-color: white; color: black; }
+    .red { background-color: #e74c3c; color: black; }
+    .blue { background-color: #3498db; color: black; }
+    .yellow { background-color: #f1c40f; color: black; }
+  </style>
+</head>
+<body>
+  <h1>VWL</h1>
+  <table>
+    <tr>
+      <th class="white">1. Needs and Types of Goods</th>
+      <th class="red">2. Objectives of Economic and Social Policy</th>
+      <th class="blue">5. Economic Circulation, Growth, Structural Change</th>
+      <th class="yellow">6. Market Economy</th>
+    </tr>
+    <tr>
+      <td class="white">
+        <b>Need:</b> Arises from a shortage and desire to eliminate it.<br><br>
+        <b>Maslow's Hierarchy:</b> Basic → Safety → Social → Esteem → Self-actualisation<br><br>
+        <b>Types of Needs:</b><br>
+        - Basic vs. Choice<br>
+        - Individual/Collective<br>
+        - Tangible/Intangible<br><br>
+        <b>Types of Goods:</b><br>
+        - Private/Public<br>
+        - Economic/Free<br>
+        - Investment/Consumption<br><br>
+        <b>Economic Principles:</b><br>
+        - Maximum: max output from fixed input<br>
+        - Minimum: min input for fixed output<br>
+        - Optimum: best input-output ratio
+      </td>
+      <td class="red">
+        <b>Magic Polygon Objectives:</b><br>
+        - Full employment (2–3% unemployment)<br>
+        - Social balance<br>
+        - Economic growth<br>
+        - Price stability<br>
+        - Environmental quality<br>
+        - Foreign trade balance<br>
+        - Balanced government budget<br><br>
+        <b>Objective Relationships:</b><br>
+        - Conflict: Price stability ↔ Full employment<br>
+        - Harmony: Economic growth ↔ Full employment<br>
+        - Neutrality: Price stability ↔ Environmental quality
+      </td>
+      <td class="blue">
+        <b>Simple Economic Circulation:</b> Households ↔ Firms (goods for money)<br><br>
+        <b>GDP:</b> Value of all goods/services produced<br>
+        <b>National Income (NI):</b> All income earned<br><br>
+        <b>Expanded Circulation:</b> Adds government, banks, foreign<br><br>
+        <b>Production Factors:</b> Labour, Land, Capital<br>
+        <b>Optimal Allocation:</b> Efficient resource use<br><br>
+        <b>Labour Productivity:</b><br>
+        - Formula: Output ÷ Hours<br>
+        - Influenced by tech, knowhow, capital<br><br>
+        <b>GDP, GNI, NI:</b><br>
+        - GDP: Inside borders<br>
+        - GNI: Includes foreign income<br>
+        - NI: Earned incomes total<br><br>
+        <b>GDP Calculation:</b><br>
+        - Production: Output - preperformance + subsidies<br>
+        - Usage: C + G + I + (X–M)<br>
+        - Income: Salaries + profits + depreciation + taxes – subsidies<br><br>
+        <b>Nominal vs. Real GDP:</b><br>
+        - Nominal: includes inflation<br>
+        - Real: excludes inflation<br><br>
+        <b>Applications of GDP:</b><br>
+        - Measure growth<br>
+        - Compare countries<br>
+        - Employment planning<br><br>
+        <b>Criticism of GDP:</b><br>
+        - Includes negatives (e.g. war)<br>
+        - Excludes unpaid work<br>
+        - Wealth ≠ Welfare
+      </td>
+      <td class="yellow">
+        <b>Market Forms:</b><br>
+        <table style="border: 2px solid black; border-collapse: collapse; width: 100%; color: black; text-align: left; table-layout: fixed;">
+          <thead>
+            <tr>
+              <th style="border: 2px solid black; padding: 8px;">Market Form</th>
+              <th style="border: 2px solid black; padding: 8px;">Supply Side</th>
+              <th style="border: 2px solid black; padding: 8px;">Example</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td style="border: 2px solid black; padding: 8px;">Monopoly</td>
+              <td style="border: 2px solid black; padding: 8px;">One supplier</td>
+              <td style="border: 2px solid black; padding: 8px;">Swiss Post (letter)</td>
+            </tr>
+            <tr>
+              <td style="border: 2px solid black; padding: 8px;">Oligopoly</td>
+              <td style="border: 2px solid black; padding: 8px;">Few suppliers</td>
+              <td style="border: 2px solid black; padding: 8px;">Car market, F&amp;B wholesalers</td>
+            </tr>
+            <tr>
+              <td style="border: 2px solid black; padding: 8px;">Polypol (Free competition)</td>
+              <td style="border: 2px solid black; padding: 8px;">Many suppliers</td>
+              <td style="border: 2px solid black; padding: 8px;">Retail markets</td>
+            </tr>
+          </tbody>
+        </table><br>
+        <b>Preconditions for Polypol:</b><br>
+        - Homogeneous goods<br>
+        - Market transparency<br>
+        - Free entry/exit<br>
+        - Rational actors<br><br>
+
+        <b>Price Making:</b><br>
+        - Information function<br>
+        - Coordination function<br>
+        - Guiding function<br><br>
+
+        <b>Supply and Demand Curves:</b><br>
+        - Supply: Upward slope<br>
+        - Demand: Downward slope<br><br>
+
+        <b>Price Change Effects:</b><br>
+        - Price ↑ → Supply ↑, Demand ↓<br>
+        - Price ↓ → Supply ↓, Demand ↑<br><br>
+
+        <b>Market Equilibrium:</b><br>
+        - Where supply = demand (P*, V*)<br><br>
+
+        <b>Curve Shifts:</b><br>
+        - Supply shift: Cost change<br>
+        - Demand shift: Income/substitute changes<br><br>
+
+        <b>Price Elasticity:</b><br>
+        - Formula: PE = ΔQ% ÷ ΔP%
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
